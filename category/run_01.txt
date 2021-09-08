@@ -1,0 +1,554 @@
+len of X: 251008, # of categories: 153
+Epoch [0/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.9283 Acc: 47.0366
+   Phase: val
+    ----------
+
+   Loss: 1.4870 Acc: 56.4163
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [1/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.6785 Acc: 52.1931
+   Phase: val
+    ----------
+
+   Loss: 1.4215 Acc: 58.3772
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [2/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.6272 Acc: 53.4798
+   Phase: val
+    ----------
+
+   Loss: 1.4171 Acc: 59.0899
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [3/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.5890 Acc: 54.3184
+   Phase: val
+    ----------
+
+   Loss: 1.3762 Acc: 59.7052
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [4/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.5734 Acc: 54.8462
+   Phase: val
+    ----------
+
+   Loss: 1.3941 Acc: 60.4710
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [5/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.5565 Acc: 55.2800
+   Phase: val
+    ----------
+
+   Loss: 1.3809 Acc: 60.2585
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [6/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.5495 Acc: 55.4688
+   Phase: val
+    ----------
+
+   Loss: 1.3664 Acc: 61.0154
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [7/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.5364 Acc: 55.7157
+   Phase: val
+    ----------
+
+   Loss: 1.3485 Acc: 60.4931
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [8/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.5288 Acc: 55.9661
+   Phase: val
+    ----------
+
+   Loss: 1.3771 Acc: 60.9446
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [9/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.5196 Acc: 56.2740
+   Phase: val
+    ----------
+
+   Loss: 1.3384 Acc: 60.9181
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [10/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.5159 Acc: 56.3684
+   Phase: val
+    ----------
+
+   Loss: 1.3615 Acc: 60.9402
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [11/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.5146 Acc: 56.4874
+   Phase: val
+    ----------
+
+   Loss: 1.3417 Acc: 61.0597
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [12/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.5016 Acc: 56.5897
+   Phase: val
+    ----------
+
+   Loss: 1.3285 Acc: 61.6086
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [13/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4982 Acc: 56.8135
+   Phase: val
+    ----------
+
+   Loss: 1.3224 Acc: 61.8432
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [14/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4940 Acc: 56.8844
+   Phase: val
+    ----------
+
+   Loss: 1.3387 Acc: 61.1527
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [15/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4854 Acc: 57.2016
+   Phase: val
+    ----------
+
+   Loss: 1.3276 Acc: 61.3430
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [16/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4844 Acc: 57.1563
+   Phase: val
+    ----------
+
+   Loss: 1.3073 Acc: 61.5511
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [17/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4803 Acc: 57.1849
+   Phase: val
+    ----------
+
+   Loss: 1.3339 Acc: 61.5245
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [18/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4788 Acc: 57.3777
+   Phase: val
+    ----------
+
+   Loss: 1.3260 Acc: 61.5909
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [19/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4740 Acc: 57.4726
+   Phase: val
+    ----------
+
+   Loss: 1.3145 Acc: 61.9937
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [20/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4712 Acc: 57.4913
+   Phase: val
+    ----------
+
+   Loss: 1.2842 Acc: 62.4983
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [21/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4619 Acc: 57.7638
+   Phase: val
+    ----------
+
+   Loss: 1.2999 Acc: 61.7857
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [22/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4609 Acc: 57.6516
+   Phase: val
+    ----------
+
+   Loss: 1.3036 Acc: 62.2637
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [23/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4616 Acc: 57.7785
+   Phase: val
+    ----------
+
+   Loss: 1.2980 Acc: 62.1841
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [24/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4507 Acc: 57.8179
+   Phase: val
+    ----------
+
+   Loss: 1.3020 Acc: 61.4979
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [25/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4524 Acc: 57.9689
+   Phase: val
+    ----------
+
+   Loss: 1.2883 Acc: 62.6400
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [26/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4502 Acc: 57.9807
+   Phase: val
+    ----------
+
+   Loss: 1.2624 Acc: 62.6533
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [27/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4501 Acc: 58.0825
+   Phase: val
+    ----------
+
+   Loss: 1.2811 Acc: 62.6356
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [28/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4447 Acc: 58.0948
+   Phase: val
+    ----------
+
+   Loss: 1.3086 Acc: 61.8653
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [29/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4460 Acc: 58.2660
+   Phase: val
+    ----------
+
+   Loss: 1.2799 Acc: 62.1221
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [30/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4384 Acc: 58.3348
+   Phase: val
+    ----------
+
+   Loss: 1.2682 Acc: 62.6488
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [31/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4379 Acc: 58.3869
+   Phase: val
+    ----------
+
+   Loss: 1.2754 Acc: 62.4983
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [32/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4352 Acc: 58.4283
+   Phase: val
+    ----------
+
+   Loss: 1.2683 Acc: 62.5603
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [33/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4305 Acc: 58.6461
+   Phase: val
+    ----------
+
+   Loss: 1.2591 Acc: 62.9233
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [34/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4342 Acc: 58.5670
+   Phase: val
+    ----------
+
+   Loss: 1.2702 Acc: 62.7595
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [35/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4301 Acc: 58.5394
+   Phase: val
+    ----------
+
+   Loss: 1.2756 Acc: 62.5426
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [36/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4243 Acc: 58.5871
+   Phase: val
+    ----------
+
+   Loss: 1.2691 Acc: 62.6710
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [37/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4219 Acc: 58.7883
+   Phase: val
+    ----------
+
+   Loss: 1.2962 Acc: 62.3169
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [38/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4233 Acc: 58.7775
+   Phase: val
+    ----------
+
+   Loss: 1.2599 Acc: 62.4231
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [39/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4222 Acc: 58.8144
+   Phase: val
+    ----------
+
+   Loss: 1.2624 Acc: 62.8790
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [40/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4209 Acc: 58.6737
+   Phase: val
+    ----------
+
+   Loss: 1.2710 Acc: 62.9056
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [41/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4224 Acc: 58.7622
+   Phase: val
+    ----------
+
+   Loss: 1.2423 Acc: 63.1358
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [42/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4113 Acc: 59.0927
+   Phase: val
+    ----------
+
+   Loss: 1.2655 Acc: 62.4496
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [43/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4058 Acc: 59.1582
+   Phase: val
+    ----------
+
+   Loss: 1.2651 Acc: 63.1490
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [44/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4062 Acc: 59.0829
+   Phase: val
+    ----------
+
+   Loss: 1.2521 Acc: 62.8126
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [45/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4116 Acc: 59.2009
+   Phase: val
+    ----------
+
+   Loss: 1.2682 Acc: 62.7241
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [46/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4114 Acc: 59.1055
+   Phase: val
+    ----------
+
+   Loss: 1.2293 Acc: 63.3040
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [47/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4061 Acc: 59.1650
+   Phase: val
+    ----------
+
+   Loss: 1.2643 Acc: 63.0871
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [48/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4049 Acc: 59.2993
+   Phase: val
+    ----------
+
+   Loss: 1.2702 Acc: 62.3124
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Epoch [49/49]
+----------
+   Phase: train
+    ----------
+
+   Loss: 1.4018 Acc: 59.2319
+   Phase: val
+    ----------
+
+   Loss: 1.2626 Acc: 62.9144
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/categorical-model.pth
+Time taken to complete training: 220.000000m 40.637893s
+Best Validation Accuracy: 63.3040
+Best Test Accuracy: 33.1271

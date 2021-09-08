@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pytorch models
+*.pt
+*.pth
+
+# Polyvore dataset meta JSON file
+*_item_metadata.json

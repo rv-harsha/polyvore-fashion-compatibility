@@ -1,0 +1,54 @@
+-----------------------------------------
+     Processing text file: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/compatibility_valid.txt
+     Writing to csv: valid_compatibility.csv
+     Referencing JSON meta data and converting. Please wait ...
+     Completed writing to file: valid_compatibility.csv
+-----------------------------------------
+     Processing text file: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/compatibility_train.txt
+     Writing to csv: train_compatibility.csv
+     Referencing JSON meta data and converting. Please wait ...
+     Completed writing to file: train_compatibility.csv
+-----------------------------------------
+     Processing text file: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/compatibility_test_hw.txt
+     Writing to csv: test_compatibility.csv
+     Referencing JSON meta data and converting. Please wait ...
+     Completed writing to file: test_compatibility.csv
+-----------------------------------------
+Datasets created successfully
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/compatibility-model.pth
+ Epoch 01: | Train Loss: 36.26111 | Val Loss: 32.83091 | Train Acc: 0.495| Val Acc: 0.482
+ Epoch 02: | Train Loss: 20.41281 | Val Loss: 6.16547 | Train Acc: 0.493| Val Acc: 0.482
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/compatibility-model.pth
+ Epoch 03: | Train Loss: 6.20730 | Val Loss: 0.70541 | Train Acc: 0.483| Val Acc: 0.487
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/compatibility-model.pth
+ Epoch 04: | Train Loss: 6.19395 | Val Loss: 0.70476 | Train Acc: 0.483| Val Acc: 0.493
+ Epoch 05: | Train Loss: 1.66789 | Val Loss: 0.78313 | Train Acc: 0.481| Val Acc: 0.483
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/compatibility-model.pth
+ Epoch 06: | Train Loss: 1.17205 | Val Loss: 1.24022 | Train Acc: 0.487| Val Acc: 0.495
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/compatibility-model.pth
+ Epoch 07: | Train Loss: 1.16455 | Val Loss: 0.80272 | Train Acc: 0.491| Val Acc: 0.495
+ Epoch 08: | Train Loss: 0.82918 | Val Loss: 0.70739 | Train Acc: 0.490| Val Acc: 0.489
+ Epoch 09: | Train Loss: 0.75434 | Val Loss: 0.70746 | Train Acc: 0.487| Val Acc: 0.495
+ Epoch 10: | Train Loss: 0.77277 | Val Loss: 0.88713 | Train Acc: 0.501| Val Acc: 0.482
+ Epoch 11: | Train Loss: 0.74364 | Val Loss: 1.03878 | Train Acc: 0.510| Val Acc: 0.494
+ Epoch 12: | Train Loss: 0.80904 | Val Loss: 0.70642 | Train Acc: 0.492| Val Acc: 0.494
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/compatibility-model.pth
+ Epoch 13: | Train Loss: 0.71547 | Val Loss: 0.69827 | Train Acc: 0.497| Val Acc: 0.503
+ Epoch 14: | Train Loss: 0.71862 | Val Loss: 0.69895 | Train Acc: 0.503| Val Acc: 0.499
+ Epoch 15: | Train Loss: 0.72180 | Val Loss: 0.82384 | Train Acc: 0.504| Val Acc: 0.483
+ Epoch 16: | Train Loss: 0.72315 | Val Loss: 0.71816 | Train Acc: 0.502| Val Acc: 0.498
+ Epoch 17: | Train Loss: 0.71361 | Val Loss: 0.75812 | Train Acc: 0.498| Val Acc: 0.483
+ Epoch 18: | Train Loss: 0.70893 | Val Loss: 0.77638 | Train Acc: 0.491| Val Acc: 0.496
+ Epoch 19: | Train Loss: 0.73124 | Val Loss: 0.72878 | Train Acc: 0.505| Val Acc: 0.488
+ Epoch 20: | Train Loss: 0.70770 | Val Loss: 0.72097 | Train Acc: 0.500| Val Acc: 0.484
+ Epoch 21: | Train Loss: 0.69928 | Val Loss: 0.70112 | Train Acc: 0.505| Val Acc: 0.500
+ Epoch 22: | Train Loss: 0.70605 | Val Loss: 0.70437 | Train Acc: 0.501| Val Acc: 0.492
+ Epoch 23: | Train Loss: 0.71054 | Val Loss: 0.72107 | Train Acc: 0.502| Val Acc: 0.496
+ Epoch 24: | Train Loss: 0.69882 | Val Loss: 0.73559 | Train Acc: 0.514| Val Acc: 0.483
+ Epoch 25: | Train Loss: 0.70034 | Val Loss: 0.69777 | Train Acc: 0.505| Val Acc: 0.494
+Model saved at: /home/ec2-user/workspace/ee599-hw4/data/polyvore_outfits/compatibility-model.pth
+ Epoch 26: | Train Loss: 0.69542 | Val Loss: 0.69403 | Train Acc: 0.511| Val Acc: 0.510
+ Epoch 27: | Train Loss: 0.69359 | Val Loss: 0.69719 | Train Acc: 0.517| Val Acc: 0.502
+ Epoch 28: | Train Loss: 0.69404 | Val Loss: 0.69664 | Train Acc: 0.519| Val Acc: 0.503
+ Epoch 29: | Train Loss: 0.69732 | Val Loss: 0.70021 | Train Acc: 0.522| Val Acc: 0.496
+Test Loss: 0.69710 | Test Acc: 0.498
