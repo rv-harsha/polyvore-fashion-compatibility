@@ -1,4 +1,4 @@
-# Polyvore Fashion dataset
+# Polyvore Outfits Fashion dataset
 
 Two tasks have been executed on this dataset:
 
